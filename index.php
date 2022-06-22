@@ -8,7 +8,7 @@
 </head>
 <body>
         <?php
-"hello github without php";
+        echo "hello github without php";
         ?>
     
 </body>
