@@ -7,9 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-        <p>
+        <?php
 "hello github without php";
-        </p>
+        ?>
     
 </body>
 </html>
